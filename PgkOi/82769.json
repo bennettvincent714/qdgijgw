@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：CORS 跨域问题多种解决方案
+简介：golang io.Reader io.Writer 接口理解，io 读写接口，各类数据源统一抽象，适配 io 复制函数。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/48032581.shtml
+
+原标题：golang 系统设计数据库索引设计方法论
+简介：golang golangci‑lint 静态代码检查配置，golangci‑lint 静态检查，代码规范检测，提前发现代码隐患。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/96701584.shtml
+
+原标题：golang 系统设计监控大盘故障快速定位思路
+简介：golang 时间轮算法实现延时调度，手写简易时间轮，高并发大量延时任务，降低轮询 CPU 消耗。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/41471035.shtml
+
+原标题：golang k8s service 服务暴露几种类型
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/92701581.shtml
+
+原标题：入门实践：简易导出导入文件功能实现
+简介：golang 内存持续上涨定位思路，区分内存泄漏、缓存占用、GC 参数不合理，分步定位内存持续走高。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/41268371.shtml
+
+原标题：nodejs 集成测试业务流程编写
+简介：内网测试服务搭建团队调试，配置本地服务内网可访问，团队成员能够访问调试，方便前后端联调与内部演示。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/16146915.shtml
+
+原标题：golang redis 位图用户签到统计
+简介：golang go 项目 CI github actions 配置，github actions 实现 go 项目 ci，自动测试、代码检查、编译打包镜像。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/70257022.shtml
+
+原标题：CPU 亲和性配置负载均衡调度
+简介：CI 流水线构建失败日志排查，阅读 CI 流水线输出日志，定位构建脚本、依赖、环境导致流水线失败问题。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/15099360.shtml
+
+原标题：Practice：实现异步任务结果查询回调实践
+简介：golang kitex 超时重试熔断配置，kitex 配置调用超时、重试、熔断策略，保障微服务调用稳定性。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/39357672.shtml
+
+原标题：部署复盘：静态站点部署CDN完整流程
+简介：Cookie Session 会话状态管理，讲解 Cookie 与 Session 原理，理解登录状态保存，实现服务端会话管理逻辑。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/60479357.shtml
+
+原标题：golang mysql 慢查询日志开启分析
+简介：golang 消息队列实现事务消息方案，基于 kafka 实现事务消息，业务执行成功才对外投递消息。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/59467147.shtml
+
+原标题：零基础理解前后端简单交互流程
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/30066693.shtml
+
+原标题：实战项目：WSL开发环境完整配置实操
+简介：golang context.Background 与 TODO 区别，Background 主流程根上下文，TODO 不确定用哪个上下文时使用。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/71568159.shtml
+
+原标题：nodejs http 服务性能调优实战
+简介：golang go time 时区数据库内置，go 内置时区数据库，不用系统时区文件，容器时区不依赖系统。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/48111592.shtml
+
+原标题：Docker 容器入门镜像实操教程
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/20148148.shtml
+
+原标题：架构笔记：业务系统反模式架构踩坑总结
+简介：golang grpc 重试机制客户端配置，grpc 客户端配置重试策略，临时故障自动重试，提升调用稳定性。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/05580360.shtml
+
+原标题：Security：文件路径穿越漏洞完整防护
+简介：任务执行锁防止并发重复调度，增加任务执行锁，多实例环境，防止同一个定时任务并发多次运行。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/58245015.shtml
+
+原标题：程序信号中断退出处理逻辑
+简介：golang cron 任务漂移问题处理，cron 任务执行超时导致任务漂移，通过分布式锁防止任务重叠执行。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/82691044.shtml
+
+原标题：入门实践：简单图片上传预览本地demo
+简介：golang 滑动窗口限流算法 go 实现，滑动窗口限流，解决固定窗口临界流量突增漏洞，限流更精准。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/02624482.shtml
+
+原标题：架构笔记：数据脱敏架构接入层与存储层方案
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/81257039.shtml
+
+原标题：新手教程：gitstash暂存工作区变更实操
+简介：WSL 文件权限访问异常修复，处理 WSL 环境文件权限错乱，调整权限配置，实现文件正常读写访问。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/85780146.shtml
+
+原标题：golang 系统设计缓存 key 淘汰雪崩防护思路
+简介：Cookie 跨环境登录配置调整，调整 Cookie 域、Secure 属性，适配开发测试生产环境，修复登录失效。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/50650038.shtml
+
+原标题：架构笔记：业务操作审计日志系统架构设计
+简介：服务器 Swap 关闭提升响应速度，关闭服务器 Swap 交换分区，避免内存交换磁盘拖慢程序响应性能。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/71589259.shtml
+
+原标题：golang 系统设计多级缓存架构落地
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/59145818.shtml
+
+原标题：golang mysql 防止 sql 注入实践
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/80590367.shtml
+
+原标题：代码模块化组件化拆分思路
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/10256035.shtml
+
+原标题：文件批量导入导出功能实现
+简介：golang contract 契约测试微服务，微服务契约测试，保证接口变更不破坏调用方，提前发现兼容性问题。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/73591460.shtml
+
+原标题：rebase 操作防止代码丢失
+简介：vite 项目配置与构建提速技巧，讲解 vite 配置优化手段，提升开发热更新速度与生产构建打包效率。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/48957034.shtml
+
+原标题：入门实践：Git分支创建切换合并完整演示
+简介：超大数据集分页性能优化方案，对比不同分页方案，针对海量数据集做分页性能优化，解决越翻越慢。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/63456804.shtml
+
+原标题：Practice：实现接口防重提交组件实践
+简介：前端骨架屏提升页面体验，实现页面骨架屏，数据未加载完成展示占位，优化页面白屏感知体验。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/29914693.shtml
+
+原标题：golang 系统设计序列化性能选型对比
+简介：golang http3 quic 客户端服务端示例，go 实现 http3 quic 服务端客户端，体验 quic 协议低延迟特性。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/06801471.shtml
+
+原标题：版本升级服务启动失败处理
+简介：golang 文件句柄耗尽排查处理，统计进程打开文件句柄，找到未关闭文件，修复句柄泄漏问题。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/70468367.shtml
+
+原标题：golang 系统设计读写穿透更新缓存几种方案
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/60579024.shtml
+
+原标题：golang 系统设计告警分级 p0‑p3 定义处理流程
+简介：golang go 容器 heap 堆实现优先队列，实现 heap 接口，构建优先队列，任务优先级调度。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/59357034.shtml
+
+原标题：golang 系统设计回调异步处理防止超时阻塞
+简介：golang go proxy 私有代理配置，配置 go proxy 私有代理，加速依赖下载，内网环境构建项目。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/14804704.shtml
+
+原标题：golang 系统设计内部服务熔断降级配置思路
+简介：golang rate 令牌桶限流器源码理解，拆解令牌桶限流核心逻辑，理解令牌生成消耗，掌握限流底层原理。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/37257057.shtml
+
+原标题：golang 系统设计配置多环境隔离方案落地
+简介：golang net.Conn 包装自定义连接，包装 net.Conn，统计读写字节，日志打印，超时控制。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/96891473.shtml
+
+原标题：AI‑Dev：利用AI快速阅读陌生开源项目源码
+简介：golang 服务注册 etcd 简单示例，etcd 实现服务注册发现，微服务实例注册元数据，客户端发现节点。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/26024700.shtml
+
+原标题：架构复盘：慢查询治理架构层面优化手段
+简介：golang 程序崩溃 core dump 生成调试，开启 core dump，程序崩溃生成转储文件，事后分析崩溃原因。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/63359245.shtml
+
+原标题：项目实践：Docker镜像安全扫描本地实操
+简介：golang go 多版本管理 gvm 使用，gvm 管理多个 go sdk 版本，快速切换不同 go 版本做项目开发。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/82680360.shtml
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang mysql 防止 sql 注入实践
+简介：Redis 大 key 拆分集群卡顿解决，拆分 Redis 超大 Key，避免大 key 操作造成 Redis 集群卡顿阻塞。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/70137023.shtml
+
+原标题：golang 系统信号信号量处理
+简介：golang go race 竞态检测工具，‑race 检测数据竞争，编译运行检测并发读写数据竞争 bug。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/52570215.shtml
+
+原标题：实战：Redis过期回调实现业务事件通知实践
+简介：golang 路径处理 filepath 包规范写法，使用 filepath 处理路径拼接分割，自动适配操作系统路径分隔符。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/04819280.shtml
+
+原标题：DevOps：日志标准输出容器日志收集方案
+简介：GET POST 接口请求参数处理，讲解两种请求方式参数传递区别，演示参数接收、解析、校验，适配不同接口调用场景。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/93886926.shtml
+
+原标题：HelloEnv：多操作系统环境变量配置汇总
+简介：golang os 环境变量读取设置，os.Getenv os.Setenv os.Unsetenv 读写环境变量，环境变量多值处理。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/37135921.shtml
+
+原标题：golang viper 配置热更新实操
+简介：golang ip 限流黑名单实现方案，基于 IP 做限流与黑名单，拦截恶意 IP 访问，保护接口服务。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/76335500.shtml
+
+原标题：接口请求重试容错机制实现
+简介：golang 单例模式实现几种方式，Go 单例模式多种实现对比，sync.Once 等方式，实现全局唯一实例。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/82213366.shtml
+
+原标题：golang 系统设计并发控制协程池任务池实现
+简介：golang redis scan 遍历 key 避免阻塞，使用 scan 迭代遍历 redis 键，不用 keys 命令，防止阻塞 redis 服务。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/37899104.shtml
+
+原标题：安全笔记：Git仓库密钥硬编码泄露处理方案
+简介：空指针异常判空容错处理，讲解空指针产生场景，规范判空逻辑，增加容错，避免空指针直接造成程序崩溃。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/60224466.shtml
+
+原标题：实战：Redis集群本地搭建与功能验证
+简介：golang time 定时器重置 Reset 正确用法，Timer Reset 调用前提，避免 Reset 带来逻辑错误。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/59911198.shtml
+
+原标题：golang 系统设计故障止损降级回滚执行原则
+简介：golang go mod exclude 排除依赖版本，exclude 排除有问题依赖版本，规避有 bug 的第三方包。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/93354489.shtml
+
+原标题：golang 系统设计技术方案评审关注点清单参考
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/69013338.shtml
+
+原标题：golang 系统设计开源项目 issue pr 模板编写
+简介：golang elasticsearch 客户端 golang 实操，es 客户端文档增删改查，条件搜索聚合统计对接搜索引擎。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/82455778.shtml
+
+原标题：优化实践：Redis性能调优，避免大key热key
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/60122548.shtml
+
+原标题：AI实践：大模型生成测试用例实践与校验
+简介：golang regexp 正则捕获分组提取数据，正则捕获分组提取子匹配内容，拿到需要业务字段。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/74075670.shtml
+
+原标题：golang 系统设计参数校验统一处理方案
+简介：数据库排序规则统一结果一致，统一数据库表排序规则，解决不同环境查询排序结果不一致问题。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/99118903.shtml
+
+原标题：HTTPS 证书过期更新操作
+简介：golang viper 多源配置管理实操，viper 读取配置文件环境变量命令行参数，多源配置优先级管理。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/09020114.shtml
+
+原标题：服务器 Swap 关闭提升响应速度
+简介：golang 高并发下锁优化减少竞争，减小锁粒度，读写锁替换互斥锁，无锁编程降低锁竞争开销。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/09414636.shtml
+
+原标题：golang 系统设计性能优化通用思路方法论
+简介：日志驱动异常日志不输出修复，排查日志驱动配置，修复日志写入配置，恢复程序正常日志输出。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/65077118.shtml
+
+原标题：Troubleshooting：K8sPodOOMKilled完整排查流程
+简介：golang redis geo 地理位置存储查询，Redis GEO 存储经纬度，查询附近点位，实现附近人业务功能。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/67918202.shtml
+
+原标题：图片上传预览格式大小处理
+简介：站内邮件消息通知功能开发，实现站内消息、邮件通知推送，业务事件触发通知，提醒用户业务状态变更。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/10318919.shtml
+
+原标题：设计思考：系统降级开关架构设计快速切流量
+简介：golang gin 参数绑定 query form json，掌握 Gin 多种参数绑定方式，适配不同请求格式参数读取。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/65958858.shtml
+
+原标题：Debug日志：生产环境偶发空指针异常排查
+简介：缓存过期打散防止缓存雪崩，对缓存过期时间增加随机偏移，避免大量缓存同时失效引发缓存雪崩。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/90544658.shtml
+
+原标题：Performance：避免内存拷贝，大对象处理优化
+简介：golang trace 工具采集 go 程序执行轨迹，go trace 采集程序完整调度轨迹，分析协程调度阻塞问题。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/32564524.shtml
+
+原标题：Issue：开源项目升级大版本后API不兼容踩坑
+简介：golang go 泛型实现通用数据结构，泛型实现通用栈队列，复用逻辑支持多种数据类型。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/82502336.shtml
+
+原标题：开发环境变量配置全平台教程
+简介：项目语义化版本号规范管理，遵循语义化版本规范管理项目版本，明确主次版本变更含义。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/86907981.shtml
+
+原标题：架构笔记：WebSocket大规模连接服务架构
+简介：gRPC 服务端客户端入门示例，搭建 gRPC 服务端与调用客户端，学习 protobuf 定义，掌握 RPC 基础开发流程。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/00330292.shtml
+
+原标题：golang k8s 持久化 pv pvc 使用实操
+简介：OpenAPI 自动接口文档生成，集成 OpenAPI 工具，自动扫描代码生成接口文档，减少文档维护成本。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/09231346.shtml
+
+原标题：HelloDocker：编写你的第一个Dockerfile
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/42745236.shtml
+
+原标题：CI/CD 流水线自动构建部署落地
+简介：golang rsa 非对称加密签名验签，RSA 非对称加密与签名验签，实现非对称安全通信。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/65856670.shtml
+
+原标题：性能复盘：慢SQL定位、分析、改写完整案例
+简介：golang gif 图片帧处理操作，解析 gif 图片帧，压缩、拆分 gif 动图，处理动图业务。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/32963424.shtml
+
+原标题：多环境配置中心灵活切换方案
+简介：golang 探测文件真实内容类型，读取文件头部字节判断真实文件格式，规避后缀伪造。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/09202410.shtml
+
+原标题：优化实践：分页查询性能优化解决offset问题
+简介：golang feishu 飞书机器人消息发送，调用飞书 webhook 机器人，发送文本卡片消息，实现业务告警通知。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/43635801.shtml
+
+原标题：golang 系统设计缓存空值防止缓存穿透实现
+简介：express 请求参数校验处理，接入参数校验库，校验入参，拦截非法参数，提前拦截错误请求。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/65871809.shtml
+
+原标题：Hands‑on：简易短消息模板渲染组件实践
+简介：golang go ring 环形容器循环队列，ring 环形链表实现循环队列，环形缓冲区业务场景。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/71214995.shtml
+
+原标题：效率笔记：调试网络请求curl命令高级用法
+简介：golang 字符编码转换 go 处理，iconv‑go 做编码转换 gbk utf8 互转，处理老旧系统 gbk 编码数据。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/46888223.shtml
+
+原标题：golang 单元测试 table‑driven
+简介：系统文件描述符上限调大，调高操作系统文件描述符上限，解决高并发场景打开文件报错。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/20391801.shtml
+
+原标题：Security：SSRF服务端请求伪造漏洞防御
+简介：golang cgo 性能开销避坑指南，cgo 调用开销，减少频繁 cgo 调用，规避 cgo 带来内存泄漏风险。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/22457465.shtml
+
+原标题：记一次第三方回调IP变动未更新防火墙拦截
+简介：golang grpc 客户端流上传数据，客户端流式请求，客户端分批上传数据到服务端，适合大文件传输。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/61390433.shtml
+
+原标题：golang k8s 节点污点容忍度配置
+简介：分布式锁失效问题排查修复，分析分布式锁失效场景，修复锁超时、续期问题，保证锁逻辑可靠。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/34745778.shtml
+
+三、实战开发｜Practice
+原标题：golang docker compose 依赖启动顺序
+简介：后端大文件分片上传接口开发，开发后端分片上传接口，接收分片，合并分片完成大文件存储。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/94077190.shtml
+
+原标题：从零搭建简单Mock接口服务
+简介：依赖安装失败全方位排错，从网络、镜像源、权限、版本多角度，定位依赖安装失败，给出对应修复手段。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/21620423.shtml
+
+原标题：限流窗口绕过漏洞修复方案
+简介：golang testify mock 模拟接口，mock 接口生成 mock 对象，单元测试模拟外部依赖行为。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/56967879.shtml
+
+原标题：跨库查询性能优化处理
+简介：前端打包产物体积压缩优化，多手段压缩前端打包产物，移除无用代码，压缩资源，提升页面加载速度。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/54674578.shtml
+
+原标题：项目实践：接口压测，逐步加压观察系统表现
+简介：golang 消息死信处理业务逻辑，Go 实现死信队列逻辑，消费失败消息转入死信，不阻塞正常消息队列。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/65956675.shtml
+
+原标题：包管理器依赖缓存清理
+简介：DNS TTL 配置域名切换生效，调整 DNS 解析 TTL，缩短缓存时间，域名变更后可以快速全网生效。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/56888978.shtml
+
+原标题：golang 系统设计线上故障排查完整流程
+简介：golang accept 错误循环崩溃处理，accept 返回系统错误，处理临时错误，避免死循环占满 CPU。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/10113141.shtml
+
+原标题：golang 系统设计配置热更新不重启服务实现
+简介：golang go 程序 CPU 占用高定位步骤，pprof 定位热点函数，分析 CPU 高占用，优化耗时代码逻辑。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/24735645.shtml
+
+原标题：golang 系统设计 sql 注入 xss 防护实践
+简介：golang grpc 拦截器开发鉴权日志，开发 grpc 服务端拦截器，统一做鉴权、日志打印、异常捕获处理。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/87968785.shtml
+
+原标题：golang redis hyperloglog 基数统计
+简介：前端大文件分片上传完整方案，前端分片切割大文件，配合后端分片接口，实现稳定大文件上传。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/76191897.shtml
+
+原标题：实战：Nginx配置静态站点、反向代理、负载均衡
+简介：golang fasthttp 服务开发完整示例，fasthttp 搭建 http 服务，路由、参数读取、响应返回完整业务。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/21391908.shtml
+
+原标题：golang es 分词器选型业务适配
+简介：Git 混乱提交历史清理方法，针对杂乱的提交记录，使用 Git 工具整理，清理无效提交，还原整洁版本历史。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/32745577.shtml
+
+原标题：golang 系统设计大表结构变更不停机方案
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/54967566.shtml
+
+原标题：避坑：预编译SQL失效，出现SQL注入风险
+简介：golang net.Listener 包装自定义监听器，包装 Listener 做连接计数、连接拦截，扩展网络能力。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/22411368.shtml
+
+原标题：golang 系统设计异步化改造业务流程思路
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/21326467.shtml
+
+原标题：线上故障：慢查询拖垮整个数据库服务
+简介：golang cgo 性能开销避坑指南，cgo 调用开销，减少频繁 cgo 调用，规避 cgo 带来内存泄漏风险。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/87290778.shtml
+
+原标题：全量回归测试提升代码质量
+简介：golang 命令行交互 cobra 开发 cli，cobra 库开发功能完善命令行工具，子命令参数标志解析。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/35688870.shtml
+
+原标题：记一次GC频繁，服务CPU持续高负载排查
+简介：golang 字符编码转换 go 处理，iconv‑go 做编码转换 gbk utf8 互转，处理老旧系统 gbk 编码数据。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/14579113.shtml
+
+原标题：实战：搭建日志收集分析简易完整演示环境
+简介：golang 系统信号信号量处理，Go 处理系统各类信号，SIGINT、SIGTERM，实现程序可控退出。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/47670979.shtml
+
+原标题：单元测试用例编写入门实操
+简介：golang gorm 原生 SQL 执行处理，复杂场景执行原生 SQL，处理返回结果集，兼顾性能与灵活性。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/39213355.shtml
+
+原标题：坑点：gitpull冲突处理不当造成代码丢失
+简介：golang html 模板防 xss 自动转义，理解 go html/template 自动转义，防止 XSS 攻击，处理不需要转义场景。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/66984663.shtml
+
+原标题：golang mysql innodb 事务隔离级别
+简介：golang gin 静态资源访问配置，Gin 配置静态资源目录，直接对外提供静态文件访问服务。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/37109003.shtml
+
+原标题：golang kafka offset 提交策略
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/70192466.shtml
+
+原标题：golang 系统设计容器 OOM 故障完整排查
+简介：golang excel 生成导出高性能方案，excelize 流式生成 excel，百万行数据导出，规避内存溢出。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/13077980.shtml
+
+原标题：golang 系统设计分布式任务调度
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/85681470.shtml
+
+原标题：踩坑记录：时间戳精度不一致引发判断错误
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/48138135.shtml
+
+原标题：坑点：gitreset误删本地代码恢复方案
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/37246925.shtml
+
+原标题：实战：Nginx配置静态站点、反向代理、负载均衡
+简介：golang go 单二进制文件静态编译交叉编译，交叉编译不同操作系统架构二进制文件，实现一次编译多平台运行。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/52471925.shtml
+
+原标题：golang websocket 服务端开发
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/04925492.shtml
+
+原标题：golang 系统设计网关鉴权鉴权转发流程讲解
+简介：OpenAPI 自动接口文档生成，集成 OpenAPI 工具，自动扫描代码生成接口文档，减少文档维护成本。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/59247092.shtml
+
+原标题：golang 多协程任务池并发控制
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/30148924.shtml
+
+原标题：golang 数据库慢查询监控实现
+简介：golang sftp 文件上传下载操作，sftp 协议远程文件上传下载，实现服务器之间文件传输功能。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/18025813.shtml
+
+原标题：GC 垃圾回收优化降低 CPU 占用
+简介：golang go 程序运行时动态修改配置，运行时热加载配置结构体，原子更新保证并发读取安全。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/60469245.shtml
+
+原标题：方案设计：分布式分页查询架构难点处理
+简介：golang gin 参数绑定 query form json，掌握 Gin 多种参数绑定方式，适配不同请求格式参数读取。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/52356057.shtml
+
+原标题：开发复盘：分布式会话共享多种方案实践
+简介：CI 构建缓存加速编译速度，开启 CI 流水线依赖缓存，复用上一次构建依赖包，缩短流水线构建耗时。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/04570370.shtml
+
+原标题：golang 系统设计大流量削峰处理方案
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/92781037.shtml
+
+原标题：golang 系统设计混沌测试简单场景模拟实现
+简介：golang mysql 慢查询日志程序采集解析，程序读取解析 mysql 慢查询日志，统计慢 SQL 做监控告警。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/74803576.shtml
+
+原标题：Practice：实现批量任务失败断点续跑实践
+简介：golang time 定时器重置 Reset 正确用法，Timer Reset 调用前提，避免 Reset 带来逻辑错误。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/48227714.shtml
+
+原标题：特殊输入字符过滤解析防护
+简介：nodejs 消息队列消费服务开发，Node 开发消息队列消费端，监听队列消息执行业务逻辑，异步解耦业务。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/93897146.shtml
+
+原标题：golang 系统设计容量评估简单方法论
+简介：前端水印防信息泄露实现，实现网页水印功能，页面叠加用户信息水印，防止页面截图信息外泄。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/59469037.shtml
+
+四、架构设计｜Architecture
+原标题：Redis 大 key 拆分集群卡顿解决
+简介：golang jwt jwk 公钥验证令牌，使用 jwk 公钥校验 jwt，非对称方式签发校验令牌，提升安全性。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/81138035.shtml
+
+原标题：新手教程：Gittag版本标签打标签实操
+简介：golang sync.Map 适用场景与性能对比，读多写少，离散 key，对比普通 map 加锁性能差异。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/82801480.shtml
+
+原标题：性能笔记：RPC超时参数优化防止级联阻塞
+简介：nodejs 全局异常捕获进程防护，捕获未捕获异常与 Promise 拒绝，尽量保护进程不因为异常直接退出。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/52469250.shtml
+
+原标题：Performance：避免循环查询N+1问题完整优化
+简介：golang sync.RWMutex 读写锁使用场景，读多写少场景读写锁，读共享写互斥，提升并发性能。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/84681358.shtml
+
+原标题：golang github actions 缓存依赖提速
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/04860358.shtml
+
+原标题：避坑：请求未设置read超时无限挂起连接
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/49214704.shtml
+
+原标题：golang 系统设计缓存降级开关快速切库实现
+简介：golang strings.Builder 字符串高效拼接，strings.Builder 做字符串拼接，比 += 性能更高，减少内存拷贝。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/84770425.shtml
+
+原标题：接口限流逻辑简单模拟实现
+简介：golang gin 路由动态注册实现方案，根据配置动态注册接口路由，无需硬编码路由，适配动态业务模块。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/58146925.shtml
+
+原标题：实战：gRPC服务编写客户端服务端完整demo
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/48136923.shtml
+
+原标题：零基础理解会话、Cookie、Session基础
+简介：服务健康检查监控接口开发，开发健康检查接口，反馈服务运行状态，供编排工具监控服务存活状态。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/26026937.shtml
+
+原标题：golang mysql 行锁表锁场景区分
+简介：golang 网卡 ip 读取网络信息获取，程序读取本机网卡 IP，多网卡环境筛选业务使用 IP 地址。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/59225805.shtml
+
+原标题：golang mysql 事务回滚异常处理
+简介：golang go 爬虫 html 解析 goquery，goquery 解析 html 文档，css 选择器提取网页内容，实现网页数据抓取。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/48136734.shtml
+
+原标题：Performance：缓存策略优化，降低数据库压力
+简介：golang 结构体深浅拷贝区别实操，区分结构体浅拷贝深拷贝，规避指针引用带来数据意外篡改问题。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/26792581.shtml
+
+原标题：Debug：DNS缓存TTL设置不当服务切换无法生效
+简介：提交第一个开源 PR 完整流程，Fork 项目、修改代码、提交 Pull Request，讲解 PR 规范，提升合并通过率。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/05082587.shtml
+
+原标题：webpack chunk 分包策略详解
+简介：golang go 程序 CPU 占用高定位步骤，pprof 定位热点函数，分析 CPU 高占用，优化耗时代码逻辑。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/41114760.shtml
+
+原标题：记一次分布式锁失效引发的数据错乱问题
+简介：批量异步处理系统业务落地，构建批量异步处理系统，把耗时业务异步化，提升接口响应速度。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/82809581.shtml
+
+原标题：TLS 版本兼容 HTTPS 握手失败
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/29932691.shtml
+
+原标题：golang context 上下文传参讲解
+简介：golang 自定义 pprof 扩展业务指标，扩展 pprof，输出业务自定义指标，结合性能数据分析业务状态。
+ | 原文链接：http://www.blog.lkultx.cn/elcqf/16892692.shtml
+
+?
