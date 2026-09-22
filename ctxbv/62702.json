@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：Architecture：鉴权授权系统架构设计思路
+简介：golang kafka 消费者位移管理，理解 kafka offset，手动提交位移，保证消息消费至少一次语义。
+ | 原文链接：http://wap.ntsadu.asia/blog/7368471.sHtMl
+
+原标题：零基础理解模块化与组件化基础思想
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：http://wap.ntsadu.asia/blog/7490695.sHtMl
+
+原标题：性能复盘：消息队列大量小消息性能问题优化
+简介：golang go 无锁并发编程技巧，原子操作 sync/atomic，简单场景替换锁，提升并发性能。
+ | 原文链接：http://wap.ntsadu.asia/blog/7936807.sHtMl
+
+原标题：Practice：实现防爬虫简单拦截中间件实践
+简介：golang aes cbc gcm 模式加密对比，AES‑CBC AES‑GCM 模式加密解密，理解两种模式差异选型。
+ | 原文链接：http://wap.ntsadu.asia/blog/5268359.sHtMl
+
+原标题：新手指南：看懂开源项目的Issue与PR
+简介：不必要字符转义关闭业务异常，关闭多余自动转义逻辑，防止业务数据被错误转义，破坏原始数据。
+ | 原文链接：http://wap.ntsadu.asia/blog/4156220.sHtMl
+
+原标题：Hands‑on：简易短链接服务完整开发实践
+简介：Docker 容器入门镜像实操教程，介绍 Docker 基础概念，演示镜像拉取、容器启停，帮助新手建立容器化开发认知。
+ | 原文链接：http://wap.ntsadu.asia/blog/3046259.sHtMl
+
+原标题：实战项目：实现分布式任务调度最小原型
+简介：golang gorm 子查询嵌套查询写法，Gorm 实现子查询、嵌套查询，复杂条件查询简化代码编写。
+ | 原文链接：http://wap.ntsadu.asia/blog/0612705.sHtMl
+
+原标题：API 接口调试与异常处理实战
+简介：百万数据 Excel 导出内存优化，优化大 Excel 导出逻辑，流式输出，避免一次性加载全部数据造成 OOM。
+ | 原文链接：http://wap.ntsadu.asia/blog/5870693.sHtMl
+
+原标题：golang 系统设计告警升级通知策略配置思路
+简介：线程池拒绝策略任务丢失防护，合理设置线程池拒绝策略，处理任务队列满场景，避免业务任务直接丢失。
+ | 原文链接：http://wap.ntsadu.asia/blog/7295437.sHtMl
+
+原标题：express 中间件开发业务实践
+简介：golang icmp ping 程序实现，go 实现 ping 工具发送 icmp 报文，检测网络连通性。
+ | 原文链接：http://wap.ntsadu.asia/blog/5801125.sHtMl
+
+原标题：缓存过期打散防止缓存雪崩
+简介：golang contract 契约测试微服务，微服务契约测试，保证接口变更不破坏调用方，提前发现兼容性问题。
+ | 原文链接：http://wap.ntsadu.asia/blog/6896089.sHtMl
+
+原标题：golang 系统信号信号量处理
+简介：git rebase 整理提交历史实操，使用 rebase 整理杂乱提交记录，将多条提交合并，保持 git 提交历史干净线性。
+ | 原文链接：http://wap.ntsadu.asia/blog/5372503.sHtMl
+
+原标题：调优方案：消息批量消费提升MQ处理吞吐量
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：http://wap.ntsadu.asia/blog/4816736.sHtMl
+
+原标题：golang redis 热点 key 业务规避
+简介：golang 网卡 ip 读取网络信息获取，程序读取本机网卡 IP，多网卡环境筛选业务使用 IP 地址。
+ | 原文链接：http://wap.ntsadu.asia/blog/8494725.sHtMl
+
+原标题：nodejs 信号处理优雅关闭服务
+简介：golang 正则表达式 Go 实操案例，正则匹配提取替换，处理手机号邮箱校验，规避正则回溯 CPU 暴涨。
+ | 原文链接：http://wap.ntsadu.asia/blog/8089351.sHtMl
+
+原标题：全局时间标准统一逻辑错乱修复
+简介：gRPC 服务端客户端入门示例，搭建 gRPC 服务端与调用客户端，学习 protobuf 定义，掌握 RPC 基础开发流程。
+ | 原文链接：http://wap.ntsadu.asia/blog/6696746.sHtMl
+
+原标题：golang docker 部署 mysql 注意事项
+简介：golang channel 作为函数参数方向，声明 channel 入参方向，只读 channel 只写 channel 提升代码约束。
+ | 原文链接：http://wap.ntsadu.asia/blog/5354578.sHtMl
+
+原标题：golang mysql exists in 性能对比
+简介：golang grpc 客户端流上传数据，客户端流式请求，客户端分批上传数据到服务端，适合大文件传输。
+ | 原文链接：http://wap.ntsadu.asia/blog/5268935.sHtMl
+
+原标题：接口幂等性防重复请求实现
+简介：golang lru 缓存淘汰算法编写，手写 LRU 缓存淘汰算法，实现本地缓存，淘汰最久未使用数据。
+ | 原文链接：http://wap.ntsadu.asia/blog/2687990.sHtMl
+
+原标题：新手教程：Git撤销错误提交的几种常用方式
+简介：前端打包产物体积压缩优化，多手段压缩前端打包产物，移除无用代码，压缩资源，提升页面加载速度。
+ | 原文链接：http://wap.ntsadu.asia/blog/3241346.sHtMl
+
+原标题：开源实践：开源项目本地调试构建排坑经验
+简介：golang cron 任务漂移问题处理，cron 任务执行超时导致任务漂移，通过分布式锁防止任务重叠执行。
+ | 原文链接：http://wap.ntsadu.asia/blog/8157914.sHtMl
+
+原标题：golang 系统设计消息队列解耦削峰
+简介：golang 协程泄露问题排查方法，识别 Go 协程泄露现象，分析泄露场景，给出排查定位协程泄露手段。
+ | 原文链接：http://wap.ntsadu.asia/blog/9236136.sHtMl
+
+原标题：Troubleshooting：Nginx缓冲区过小大文件上传失败
+简介：golang alertmanager 告警配置实践，alertmanager 配置告警路由，告警发送邮件钉钉，异常及时通知运维。
+ | 原文链接：http://wap.ntsadu.asia/blog/5468103.sHtMl
+
+原标题：坑点：环境配置写死代码，上线忘记修改
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：http://wap.ntsadu.asia/blog/0251222.sHtMl
+
+原标题：golang ci 流水线代码质量扫描集成
+简介：echarts 大数据渲染性能调优，大数据量 ECharts 图表调优，数据采样、分片渲染，解决图表卡顿。
+ | 原文链接：http://wap.ntsadu.asia/blog/2365233.sHtMl
+
+原标题：新手向：项目目录结构规范与含义解析
+简介：SourceMap 生成线上报错定位，项目打包生成 SourceMap 文件，线上报错可以还原源码，快速定位报错位置。
+ | 原文链接：http://wap.ntsadu.asia/blog/5140357.sHtMl
+
+原标题：新手参与开源社区贡献指南
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：http://wap.ntsadu.asia/blog/4826918.sHtMl
+
+原标题：限流组件计数器令牌桶模式实现
+简介：CI 流水线构建失败日志排查，阅读 CI 流水线输出日志，定位构建脚本、依赖、环境导致流水线失败问题。
+ | 原文链接：http://wap.ntsadu.asia/blog/4745735.sHtMl
+
+原标题：新手向：配置项目eslint/prettier代码格式化
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：http://wap.ntsadu.asia/blog/6713624.sHtMl
+
+原标题：零基础理解JSON、XML数据格式处理
+简介：golang benchmark 参数‑bench‑mem 统计内存分配，benchmark 开启内存统计，观察内存分配次数大小。
+ | 原文链接：http://wap.ntsadu.asia/blog/6370606.sHtMl
+
+原标题：前端骨架屏提升页面体验
+简介：golang 分布式事务 seata go 客户端，seata‑go 实现分布式事务，保证跨库业务数据最终一致性。
+ | 原文链接：http://wap.ntsadu.asia/blog/8489803.sHtMl
+
+原标题：golang 文件上传下载接口开发
+简介：Cookie Session 会话状态管理，讲解 Cookie 与 Session 原理，理解登录状态保存，实现服务端会话管理逻辑。
+ | 原文链接：http://wap.ntsadu.asia/blog/5494795.sHtMl
+
+原标题：golang 系统设计索引设计通用方法论汇总
+简介：golang go 项目工程目录布局标准，不同规模 go 项目目录结构，小型项目中型项目大型微服务项目布局。
+ | 原文链接：http://wap.ntsadu.asia/blog/8490492.sHtMl
+
+原标题：线程池拒绝策略任务丢失防护
+简介：golang kitex 中间件与元数据传递，kitex 自定义中间件，透传 traceId 鉴权元数据，统一处理请求。
+ | 原文链接：http://wap.ntsadu.asia/blog/0727928.sHtMl
+
+原标题：开发复盘：大数据量分页避免offset性能问题
+简介：golang 数据库连接泄露排查，定位 Go 数据库连接泄露，连接没有归还池，导致连接耗尽报错。
+ | 原文链接：http://wap.ntsadu.asia/blog/6967029.sHtMl
+
+原标题：golang 系统设计定时任务分布式锁防重复执行
+简介：依赖版本冲突兼容修复方案，定位依赖版本冲突根源，通过版本约束、替换包，解决版本不兼容运行报错。
+ | 原文链接：http://wap.ntsadu.asia/blog/6484736.sHtMl
+
+原标题：golang 系统设计日志检索排查线上问题实操技巧
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：http://wap.ntsadu.asia/blog/2834357.sHtMl
+
+原标题：Nginx 反向代理路由配置实战
+简介：golang go 基准测试 benchmark 编写，Benchmark 性能基准测试，测量函数执行耗时内存分配情况。
+ | 原文链接：http://wap.ntsadu.asia/blog/9668146.sHtMl
+
+原标题：Performance：数据库join优化，大表join规避
+简介：golang go 网络编程 net 包基础，net 包 tcp udp socket 编程，监听接收连接，读写数据。
+ | 原文链接：http://wap.ntsadu.asia/blog/7967092.sHtMl
+
+原标题：本地数据库开发环境搭建指南
+简介：golang interface {} 类型断言类型转换，类型断言 ok 模式，避免断言失败触发 panic。
+ | 原文链接：http://wap.ntsadu.asia/blog/2978262.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：内存溢出问题现象识别排查
+简介：golang sort 切片排序自定义 less，sort.Slice 切片快速排序，自定义 less 函数实现业务排序。
+ | 原文链接：http://wap.ntsadu.asia/blog/6373589.sHtMl
+
+原标题：HTTPS 证书过期更新操作
+简介：图片上传预览格式大小处理，实现图片上传接口，校验文件格式、大小，完成上传后预览处理。
+ | 原文链接：http://wap.ntsadu.asia/blog/7080280.sHtMl
+
+原标题：golang 容器健康检查接口开发
+简介：golang redis pipeline 批量操作，使用 Redis Pipeline 批量执行多条命令，减少网络往返，提升批量操作性能。
+ | 原文链接：http://wap.ntsadu.asia/blog/9591703.sHtMl
+
+原标题：方案对比：同步事务vs事务消息最终一致性
+简介：百万数据 Excel 导出内存优化，优化大 Excel 导出逻辑，流式输出，避免一次性加载全部数据造成 OOM。
+ | 原文链接：http://wap.ntsadu.asia/blog/0714574.sHtMl
+
+原标题：OpenSource：开源项目README高质量编写指南
+简介：包管理器依赖缓存清理，清理本地依赖缓存，解决缓存旧包引发问题，拉取最新版本依赖包。
+ | 原文链接：http://wap.ntsadu.asia/blog/2594795.sHtMl
+
+原标题：Hands‑on：简易代理服务器开发实践
+简介：golang go 变量逃逸场景汇总，切片、指针、返回局部变量引发逃逸，变量分配到堆影响 GC。
+ | 原文链接：http://wap.ntsadu.asia/blog/3041352.sHtMl
+
+原标题：golang docker compose 环境变量
+简介：golang minio 私有对象存储开发，minio s3 对象存储，bucket 管理，文件上传下载权限设置。
+ | 原文链接：http://wap.ntsadu.asia/blog/6967039.sHtMl
+
+原标题：golang 系统设计缓存空值防止缓存穿透实现
+简介：golang 空接口 interface {} 类型处理，interface {} 存储任意类型，类型转换，处理泛型之前通用数据。
+ | 原文链接：http://wap.ntsadu.asia/blog/9562514.sHtMl
+
+原标题：极简 API 网关路由转发实现
+简介：golang os 文件目录操作大全，文件创建删除重命名，目录遍历，文件信息读取，完成各类文件系统操作。
+ | 原文链接：http://wap.ntsadu.asia/blog/5378501.sHtMl
+
+原标题：Hands‑on：简易配置热更新组件开发实践
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：http://wap.ntsadu.asia/blog/7472584.sHtMl
+
+原标题：多实例部署 Session 共享方案
+简介：手写简易 ORM 理解对象映射，手写极简 ORM 示例，理解对象与数据库表字段映射底层原理。
+ | 原文链接：http://wap.ntsadu.asia/blog/6551379.sHtMl
+
+原标题：开发记录：表单参数校验统一中间件实现
+简介：golang go proxy 私有代理配置，配置 go proxy 私有代理，加速依赖下载，内网环境构建项目。
+ | 原文链接：http://wap.ntsadu.asia/blog/0480668.sHtMl
+
+原标题：golang 系统设计 sql 注入 xss 防护实践
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：http://wap.ntsadu.asia/blog/1921223.sHtMl
+
+原标题：Practice：实现接口幂等性多种方案对比实践
+简介：TLS 版本兼容 HTTPS 握手失败，兼容老旧 TLS 协议版本，修复部分客户端 HTTPS 握手失败无法访问。
+ | 原文链接：http://wap.ntsadu.asia/blog/9812446.sHtMl
+
+原标题：全平台系统环境变量配置
+简介：golang 系统信号信号量处理，Go 处理系统各类信号，SIGINT、SIGTERM，实现程序可控退出。
+ | 原文链接：http://wap.ntsadu.asia/blog/8161180.sHtMl
+
+原标题：golang 时间时区处理避坑指南
+简介：golang time 时间比较 Before After Equal，时间比较不要直接减，使用内置方法判断时间先后。
+ | 原文链接：http://wap.ntsadu.asia/blog/8502416.sHtMl
+
+原标题：安全笔记：Git仓库密钥硬编码泄露处理方案
+简介：前端工程化 webpack 打包优化，针对 webpack 项目做打包调优，分包、压缩、Tree‑Shaking，缩减包体积。
+ | 原文链接：http://wap.ntsadu.asia/blog/1838148.sHtMl
+
+原标题：Debug：分页偏移量过大数据库查询性能暴跌
+简介：静态网页 HTML CSS 快速入门实战，通过简单页面案例讲解标签、样式布局，从零编写页面，理解网页基础渲染原理。
+ | 原文链接：http://wap.ntsadu.asia/blog/4157365.sHtMl
+
+原标题：性能复盘：内存泄漏定位，内存持续上涨优化
+简介：golang docker 镜像构建最佳实践，Go 项目 Docker 镜像构建最佳实践，减小镜像体积，安全构建。
+ | 原文链接：http://wap.ntsadu.asia/blog/6378571.sHtMl
+
+原标题：跨平台换行符统一异常修复
+简介：简易日志收集集中管理方案，搭建轻量日志收集方案，把多服务日志汇总，集中检索查看日志信息。
+ | 原文链接：http://wap.ntsadu.asia/blog/5379586.sHtMl
+
+原标题：实战项目：CLI批量文件处理工具开发全过程
+简介：GET POST 接口请求参数处理，讲解两种请求方式参数传递区别，演示参数接收、解析、校验，适配不同接口调用场景。
+ | 原文链接：http://wap.ntsadu.asia/blog/8101359.sHtMl
+
+原标题：优化实践：Redis管道、批量命令减少网络往返
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：http://wap.ntsadu.asia/blog/7493699.sHtMl
+
+原标题：依赖版本冲突兼容修复方案
+简介：golang 自定义 pprof 扩展业务指标，扩展 pprof，输出业务自定义指标，结合性能数据分析业务状态。
+ | 原文链接：http://wap.ntsadu.asia/blog/4945808.sHtMl
+
+原标题：调优方案：容器CPU内存参数压测后调优
+简介：golang cpu pprof 性能分析实操，使用 pprof 采集 CPU 性能数据，定位 CPU 高占用函数，做性能优化。
+ | 原文链接：http://wap.ntsadu.asia/blog/1584736.sHtMl
+
+原标题：快速启动：本地运行开源项目排障清单
+简介：golang 简单爬虫请求防封禁，简易 Go 爬虫实现，增加请求间隔、UA 伪装，规避被目标站点封禁 IP。
+ | 原文链接：http://wap.ntsadu.asia/blog/6150259.sHtMl
+
+原标题：Hands‑on：手写简单消息队列理解存储模型
+简介：全局时间标准统一逻辑错乱修复，全服务统一使用同一时间标准，不要混用本地时间 UTC，修复时间逻辑 bug。
+ | 原文链接：http://wap.ntsadu.asia/blog/5978159.sHtMl
+
+原标题：golang consul 健康检查服务注册
+简介：golang interface {} 类型断言类型转换，类型断言 ok 模式，避免断言失败触发 panic。
+ | 原文链接：http://wap.ntsadu.asia/blog/2475779.sHtMl
+
+原标题：架构复盘：分表扩容架构平滑迁移思路
+简介：Redis 大 key 拆分集群卡顿解决，拆分 Redis 超大 Key，避免大 key 操作造成 Redis 集群卡顿阻塞。
+ | 原文链接：http://wap.ntsadu.asia/blog/5585630.sHtMl
+
+原标题：golang 系统设计全局异常处理器实现
+简介：golang hertz 性能优化参数调优，hertz 连接池、缓冲区参数调优，最大化接口吞吐性能。
+ | 原文链接：http://wap.ntsadu.asia/blog/3945137.sHtMl
+
+原标题：容器软链接文件权限修复
+简介：golang bcrypt 密码哈希加密存储，bcrypt 做用户密码哈希，加盐存储密码，保障用户密码安全。
+ | 原文链接：http://wap.ntsadu.asia/blog/5824650.sHtMl
+
+原标题：记一次本地运行正常，线上环境报错诡异问题
+简介：golang 重试退避机制代码实现，Go 实现请求重试与指数退避，处理临时故障，提升调用稳定性。
+ | 原文链接：http://wap.ntsadu.asia/blog/5801469.sHtMl
+
+原标题：Practice：实现跨机器文件同步脚本实践
+简介：golang docker 多阶段构建 go 镜像，Go 项目 Docker 多阶段构建，编译与运行阶段分离，大幅度缩减最终镜像体积，提升镜像分发效率。
+ | 原文链接：http://wap.ntsadu.asia/blog/1593691.sHtMl
+
+原标题：golang 系统设计日志轮转切割防止磁盘占满
+简介：golang url 解析路径参数提取，url.Parse 解析 url，获取协议主机路径查询参数。
+ | 原文链接：http://wap.ntsadu.asia/blog/3224372.sHtMl
+
+原标题：CLI 批量处理工具文件操作开发
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://wap.ntsadu.asia/blog/6031579.sHtMl
+
+原标题：记一次字符集编码不一致乱码问题全排查
+简介：Git 误删提交代码恢复找回，使用 Git reflog 工具找回被误删除提交记录，恢复误删除代码。
+ | 原文链接：http://wap.ntsadu.asia/blog/3619269.sHtMl
+
+原标题：golang 系统设计读写分离延迟业务兼容
+简介：golang k8s go 服务 yaml 资源编写，k8s 部署 go 应用 deployment service，健康检查资源限制配置。
+ | 原文链接：http://wap.ntsadu.asia/blog/0461135.sHtMl
+
+原标题：静态站点自动部署发布方案
+简介：线程调度优化减少上下文切换，优化线程数量，减少线程频繁切换，降低 CPU 上下文切换开销。
+ | 原文链接：http://wap.ntsadu.asia/blog/9629859.sHtMl
+
+原标题：golang docker 基础命令实操汇总
+简介：golang cgo 内存管理 C 与 Go 内存，区分 Go 内存 C 堆内存，防止 cgo 内存泄漏，正确释放 C 内存。
+ | 原文链接：http://wap.ntsadu.asia/blog/6057092.sHtMl
+
+原标题：golang 系统设计故障演练简单落地思路方法论
+简介：golang 后端节点健康检查机制实现，定时探测后端节点状态，自动剔除故障节点，保障转发可用。
+ | 原文链接：http://wap.ntsadu.asia/blog/6377469.sHtMl
+
+原标题：服务启动依赖顺序配置正确
+简介：前端工程化 webpack 打包优化，针对 webpack 项目做打包调优，分包、压缩、Tree‑Shaking，缩减包体积。
+ | 原文链接：http://wap.ntsadu.asia/blog/7636817.sHtMl
+
+三、实战开发｜Practice
+原标题：golang redis 发布订阅简单示例
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：http://wap.ntsadu.asia/blog/5178280.sHtMl
+
+原标题：部署复盘：配置不要硬编码进镜像最佳实践
+简介：golang redis geo 地理位置存储查询，Redis GEO 存储经纬度，查询附近点位，实现附近人业务功能。
+ | 原文链接：http://wap.ntsadu.asia/blog/7213029.sHtMl
+
+原标题：零基础学习简单正则表达式实战案例
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://wap.ntsadu.asia/blog/3067358.sHtMl
+
+原标题：golang k8s 监控 prometheus 部署
+简介：golang net/http/httptest 服务端模拟，httptest.NewRecorder 记录 handler 响应，校验返回状态码 body。
+ | 原文链接：http://wap.ntsadu.asia/blog/5978362.sHtMl
+
+原标题：移动端适配 rem vw 方案对比
+简介：正则表达式优化 CPU 占满问题，优化正则表达式写法，避免回溯，防止正则运算 CPU 占用 100%。
+ | 原文链接：http://wap.ntsadu.asia/blog/2674764.sHtMl
+
+原标题：golang 系统设计 mq 消息重复消费处理
+简介：golang 日志按日期切割实现方案，实现日志文件按天切割，自动归档旧日志，防止单个日志文件过大。
+ | 原文链接：http://wap.ntsadu.asia/blog/1567610.sHtMl
+
+原标题：DevOps：CI构建产物缓存复用加速编译
+简介：golang panic 崩溃日志完整收集，捕获所有 panic，打印堆栈，记录日志，方便定位崩溃根源。
+ | 原文链接：http://wap.ntsadu.asia/blog/5896999.sHtMl
+
+原标题：golang 项目 go mod 依赖管理
+简介：golang go 项目安全检查漏洞扫描，扫描 go 项目依赖漏洞，代码安全审计，规避安全风险。
+ | 原文链接：http://wap.ntsadu.asia/blog/4161371.sHtMl
+
+原标题：安全复盘：业务接口越权测试与修复实践
+简介：golang CPU 绑定亲和性设置 go 程序，设置进程 CPU 亲和绑定核心，减少 CPU 调度开销，提升计算性能。
+ | 原文链接：http://wap.ntsadu.asia/blog/7389570.sHtMl
+
+原标题：开发复盘：长轮询接口实现服务端消息推送
+简介：文件句柄耗尽资源泄露处理，定位文件句柄泄露，修复文件忘记关闭问题，解决句柄耗尽服务报错。
+ | 原文链接：http://wap.ntsadu.asia/blog/5150267.sHtMl
+
+原标题：golang kafka 消息顺序性保证方案
+简介：分布式任务调度集群原型开发，开发简易分布式调度原型，集群多节点运行，保证任务只执行一次。
+ | 原文链接：http://wap.ntsadu.asia/blog/1423673.sHtMl
+
+原标题：从零搭建本地数据库开发环境
+简介：golang go mod vendor 本地依赖导出，导出 vendor 目录，离线环境编译项目，无需访问外网拉依赖。
+ | 原文链接：http://wap.ntsadu.asia/blog/9616917.sHtMl
+
+原标题：golang 系统设计配置敏感信息加密存储
+简介：golang 配置文件多格式兼容加载，同时支持 yaml toml json 多种格式配置文件，灵活适配不同部署环境。
+ | 原文链接：http://wap.ntsadu.asia/blog/8489691.sHtMl
+
+原标题：AI实践：大模型生成代码后审查与重构实践
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：http://wap.ntsadu.asia/blog/0823918.sHtMl
+
+原标题：接口幂等性防重复请求实现
+简介：布隆过滤器误判问题修正，调整布隆过滤器参数，降低误判概率，保证业务去重逻辑准确。
+ | 原文链接：http://wap.ntsadu.asia/blog/4876464.sHtMl
+
+原标题：golang 系统设计缓存优化落地实操指南
+简介：服务器 Swap 关闭提升响应速度，关闭服务器 Swap 交换分区，避免内存交换磁盘拖慢程序响应性能。
+ | 原文链接：http://wap.ntsadu.asia/blog/6019999.sHtMl
+
+原标题：HelloShell：入门常用shell脚本编写
+简介：golang grpc 客户端拦截器封装，grpc 客户端拦截器实现请求统一签名、重试、链路信息透传。
+ | 原文链接：http://wap.ntsadu.asia/blog/0712614.sHtMl
+
+原标题：程序信号中断退出处理逻辑
+简介：golang smtp 邮件发送完整示例，调用 smtp 服务发送文本与 html 格式邮件，实现邮件通知能力。
+ | 原文链接：http://wap.ntsadu.asia/blog/0716958.sHtMl
+
+原标题：golang redis 地理位置 geo 使用
+简介：静态资源 404 路径打包修复，修复打包后静态资源访问 404，调整资源输出路径，保证资源正常加载。
+ | 原文链接：http://wap.ntsadu.asia/blog/6945929.sHtMl
+
+原标题：Hands‑on：简易ID生成雪花算法完整实现
+简介：golang excel 大文件读取流式解析，流式读取大 excel 文件，逐行解析数据，不加载全部内容进内存。
+ | 原文链接：http://wap.ntsadu.asia/blog/6370603.sHtMl
+
+原标题：golang kafka 生产者参数调优
+简介：golang gorm 批量插入性能调优，GORM 批量插入优化，调整批次大小，提升大量数据插入数据库速度。
+ | 原文链接：http://wap.ntsadu.asia/blog/0401436.sHtMl
+
+原标题：golang 系统设计排行榜几种实现
+简介：golang socket 文件描述符继承重启，父进程传递 listener fd 给子进程，实现 go 程序零停机热重启。
+ | 原文链接：http://wap.ntsadu.asia/blog/3257970.sHtMl
+
+原标题：golang redis 发布订阅简单示例
+简介：前端打包产物体积压缩优化，多手段压缩前端打包产物，移除无用代码，压缩资源，提升页面加载速度。
+ | 原文链接：http://wap.ntsadu.asia/blog/0488092.sHtMl
+
+原标题：OpenSource：开源项目许可证License选型指南
+简介：golang 数据库连接耗尽排查思路，监控连接池状态，定位连接未归还，解决连接耗尽报错。
+ | 原文链接：http://wap.ntsadu.asia/blog/0901913.sHtMl
+
+原标题：Hands‑on：代码生成器，一键生成CRUD模板
+简介：nodejs 信号处理优雅关闭服务，监听系统信号，执行资源清理，实现 Node 服务优雅停机，拒绝粗暴杀死进程。
+ | 原文链接：http://wap.ntsadu.asia/blog/0378803.sHtMl
+
+原标题：请求工具封装统一异常处理
+简介：golang tcp 连接泄露排查定位，netstat 查看连接状态，找出未正常关闭连接，定位连接泄漏代码。
+ | 原文链接：http://wap.ntsadu.asia/blog/3151394.sHtMl
+
+原标题：开发复盘：异步消息解耦业务流程落地实践
+简介：golang go panic 合理使用边界，panic 只用于不可恢复程序错误，业务逻辑禁止直接 panic。
+ | 原文链接：http://wap.ntsadu.asia/blog/4040480.sHtMl
+
+原标题：服务器时钟同步任务错乱修复
+简介：golang udp 服务端客户端开发示例，golang 实现 UDP 服务收发数据包，实现 udp 协议通信程序。
+ | 原文链接：http://wap.ntsadu.asia/blog/2959281.sHtMl
+
+原标题：复盘总结：技术选型对比文档模板实践
+简介：限流组件计数器令牌桶模式实现，实现计数器、令牌桶两种限流算法，封装可复用限流组件。
+ | 原文链接：http://wap.ntsadu.asia/blog/1917813.sHtMl
+
+原标题：golang minio 分片上传断点续传
+简介：vue pinia 状态管理实战教程，Pinia 完整实战示例，实现状态定义修改，模块拆分替代 Vuex。
+ | 原文链接：http://wap.ntsadu.asia/blog/3149281.sHtMl
+
+原标题：全量回归测试提升代码质量
+简介：golang 设置 net.Conn 读写超时，每次读写设置超时，防止连接永久阻塞挂起不返回。
+ | 原文链接：http://wap.ntsadu.asia/blog/9605815.sHtMl
+
+原标题：golang 系统设计锁优化减少竞争提升吞吐
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：http://wap.ntsadu.asia/blog/5368483.sHtMl
+
+原标题：服务启动依赖顺序配置正确
+简介：nodejs 消息队列消费服务开发，Node 开发消息队列消费端，监听队列消息执行业务逻辑，异步解耦业务。
+ | 原文链接：http://wap.ntsadu.asia/blog/4294601.sHtMl
+
+原标题：golang minio 分片上传断点续传
+简介：nodejs 集成测试业务流程编写，编写 Node 集成测试，调用真实接口，验证完整业务链路执行结果。
+ | 原文链接：http://wap.ntsadu.asia/blog/2134120.sHtMl
+
+原标题：golang 系统设计字符串拼接性能优化技巧
+简介：golang go 模块迁移从 GOPATH 到 GoMod，老项目从 GOPATH 迁移 go mod，解决依赖管理混乱问题。
+ | 原文链接：http://wap.ntsadu.asia/blog/5910223.sHtMl
+
+原标题：调优方案：Nginx性能参数调优高并发配置
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://wap.ntsadu.asia/blog/0746361.sHtMl
+
+原标题：golang 接口限流中间件开发
+简介：golang context.WithTimeout 超时上下文，WithTimeout 设置超时时间，超时自动 cancel 释放协程。
+ | 原文链接：http://wap.ntsadu.asia/blog/4157469.sHtMl
+
+原标题：golang 系统设计最小权限原则落地实践
+简介：极简 API 网关路由转发实现，开发极简网关服务，完成请求路由转发，理解网关基础实现原理。
+ | 原文链接：http://wap.ntsadu.asia/blog/9694624.sHtMl
+
+原标题：性能复盘：系统上下文切换过高性能下降调优
+简介：golang go select 多路等待 channel，select 等待多个 channel，default 非阻塞，超时等待 channel。
+ | 原文链接：http://wap.ntsadu.asia/blog/5726917.sHtMl
+
+原标题：Practice：实现数据库事务消息最终一致性demo
+简介：golang 日志按日期切割实现方案，实现日志文件按天切割，自动归档旧日志，防止单个日志文件过大。
+ | 原文链接：http://wap.ntsadu.asia/blog/9612703.sHtMl
+
+四、架构设计｜Architecture
+原标题：Hands‑on：简易验证码生成校验后端实践
+简介：容器资源限制防止宿主机过载，设置容器 CPU 内存资源上限，避免单个容器耗尽宿主机全部硬件资源。
+ | 原文链接：http://wap.ntsadu.asia/blog/8490569.sHtMl
+
+原标题：安全笔记：XSS跨站脚本攻击防御落地实践
+简介：GraphQL 接口查询优化实操，体验 GraphQL 查询方式，按需获取字段，减少冗余数据传输，优化接口请求效率。
+ | 原文链接：http://wap.ntsadu.asia/blog/9605036.sHtMl
+
+原标题：golang 文件上传下载接口开发
+简介：golang time 时间格式化参考时间牢记，2006‑01‑02T15:04:05Z07:00，掌握 go 时间格式化关键点。
+ | 原文链接：http://wap.ntsadu.asia/blog/3825146.sHtMl
+
+原标题：缓存过期打散防止缓存雪崩
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：http://wap.ntsadu.asia/blog/4045724.sHtMl
+
+原标题：golang 系统设计监控缺失指标补全完整流程
+简介：golang etcd key 监听变更 watch 机制，watch 监听 etcd 键变化，配置变更实时感知，实现配置热更新。
+ | 原文链接：http://wap.ntsadu.asia/blog/2938027.sHtMl
+
+原标题：架构复盘：系统扩容缩容架构无状态优先原则
+简介：golang 服务注册 etcd 简单示例，etcd 实现服务注册发现，微服务实例注册元数据，客户端发现节点。
+ | 原文链接：http://wap.ntsadu.asia/blog/2875218.sHtMl
+
+原标题：AI‑Dev：利用AI快速阅读陌生开源项目源码
+简介：开源项目本地运行排错完整清单，汇总开源项目拉取后运行失败各类问题，给出排查思路，快速解决本地启动异常。
+ | 原文链接：http://wap.ntsadu.asia/blog/9322118.sHtMl
+
+原标题：Git LFS 大文件推送失败解决
+简介：nodejs 集群模式多核利用实现，使用 cluster 集群模式，充分利用服务器多核 CPU，提升服务处理能力。
+ | 原文链接：http://wap.ntsadu.asia/blog/4376331.sHtMl
+
+原标题：开发记录：容器日志标准输出采集实践方案
+简介：线程调度优化减少上下文切换，优化线程数量，减少线程频繁切换，降低 CPU 上下文切换开销。
+ | 原文链接：http://wap.ntsadu.asia/blog/0099644.sHtMl
+
+原标题：Issue：日志疯狂打日志快速占满磁盘空间
+简介：golang grpc 重试机制客户端配置，grpc 客户端配置重试策略，临时故障自动重试，提升调用稳定性。
+ | 原文链接：http://wap.ntsadu.asia/blog/1669586.sHtMl
+
+原标题：golang redis 计数器防超卖示例
+简介：golang 定时任务 cron 使用指南，Go 使用 Cron 库实现定时任务，配置 corn 表达式调度业务任务。
+ | 原文链接：http://wap.ntsadu.asia/blog/9669135.sHtMl
+
+原标题：安全笔记：GitHubAction密钥安全管理
+简介：golang go 输入数据校验防御，所有外部入参严格校验长度格式，防止恶意输入造成业务异常。
+ | 原文链接：http://wap.ntsadu.asia/blog/2534681.sHtMl
+
+原标题：golang redis pipeline 批量操作
+简介：golang csv 百万级数据导入数据库，流式读取 csv 分批写入数据库，避免一次性加载全部数据。
+ | 原文链接：http://wap.ntsadu.asia/blog/9502791.sHtMl
+
+原标题：代码模块化组件化拆分思路
+简介：﻿从零搭建本地开发环境完整教程，手把手完成环境配置，梳理踩坑点，帮助开发者快速搭建可用的本地开发环境，降低上手成本。
+ | 原文链接：http://wap.ntsadu.asia/blog/9646802.sHtMl
+
+原标题：入门实践：简易导出导入文件功能实现
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：http://wap.ntsadu.asia/blog/7051246.sHtMl
+
+原标题：新手向：看懂项目README的正确阅读姿势
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：http://wap.ntsadu.asia/blog/9163494.sHtMl
+
+原标题：golang github actions 缓存依赖提速
+简介：JSON XML 数据解析处理示例，演示两种格式数据解析与序列化，增加异常捕获，处理格式错乱导致解析失败。
+ | 原文链接：http://wap.ntsadu.asia/blog/3058391.sHtMl
+
+原标题：消息队列消费堆积扩容处理
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://wap.ntsadu.asia/blog/9290247.sHtMl
+
+?
