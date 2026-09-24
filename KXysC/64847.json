@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 系统设计一致性哈希原理讲解
+简介：golang go‑zero 中间件鉴权限流，go‑zero 自定义中间件，实现鉴权、限流、日志打印通用能力。
+ | 原文链接：m.eceyxy.asia/Article/details/1836929.sHtML
+
+原标题：golang 系统设计 vscode go 插件调试配置实操
+简介：golang rsa 公钥加密私钥解密，rsa 非对称加密，大文件分块加密，处理非对称加密长度限制。
+ | 原文链接：m.eceyxy.asia/Article/details/7491818.sHtML
+
+原标题：Performance：避免内存拷贝，大对象处理优化
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：m.eceyxy.asia/Article/details/9617957.sHtML
+
+原标题：golang yaml 解析配置加载实操
+简介：golang 消息队列 kafka 消费开发，Go 开发 Kafka 消费程序，消费消息执行业务，理解 Kafka 消费逻辑。
+ | 原文链接：m.eceyxy.asia/Article/details/2939584.sHtML
+
+原标题：快速上手简单信号处理脚本编写
+简介：golang 重试退避机制代码实现，Go 实现请求重试与指数退避，处理临时故障，提升调用稳定性。
+ | 原文链接：m.eceyxy.asia/Article/details/5392816.sHtML
+
+原标题：调优方案：前端静态资源打包性能体积优化
+简介：golang go url url.Values 参数编码，url.Values 构建 url 查询参数，自动处理参数 url 编码。
+ | 原文链接：m.eceyxy.asia/Article/details/0718960.sHtML
+
+原标题：golang docker compose 环境变量
+简介：Nginx 缓冲区调优大文件上传，调大 Nginx 请求缓冲区，支持客户端上传大体积文件，避免上传被截断。
+ | 原文链接：m.eceyxy.asia/Article/details/0717958.sHtML
+
+原标题：设计思考：业务系统如何设计优雅失败架构
+简介：nodejs 脚手架工具开发完整教程，从零开发 Node 命令行脚手架，实现项目模板生成，理解 CLI 开发。
+ | 原文链接：m.eceyxy.asia/Article/details/3052352.sHtML
+
+原标题：Performance：数据库分表解决单表过大性能衰减
+简介：图片上传预览格式大小处理，实现图片上传接口，校验文件格式、大小，完成上传后预览处理。
+ | 原文链接：m.eceyxy.asia/Article/details/3051395.sHtML
+
+原标题：开源实践：参与开源项目从Issue到PR完整流程
+简介：golang aes 对称加密解密示例，AES 对称加密解密实现，业务敏感数据加密存储传输。
+ | 原文链接：m.eceyxy.asia/Article/details/7192916.sHtML
+
+原标题：golang 系统设计重试退避策略业务落地
+简介：多操作系统开发兼容处理，解决不同系统路径、换行符、权限差异，保证项目跨平台正常运行。
+ | 原文链接：m.eceyxy.asia/Article/details/5961282.sHtML
+
+原标题：golang 系统设计 span 埋点业务代码最小侵入思路
+简介：nodejs 定时任务生产环境避坑，Node 定时任务线上踩坑汇总，集群重复执行、任务阻塞等问题解决方案。
+ | 原文链接：m.eceyxy.asia/Article/details/8480694.sHtML
+
+原标题：Spring 事务传播机制配置生效
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：m.eceyxy.asia/Article/details/0607815.sHtML
+
+原标题：golang http 请求重试封装工具
+简介：缓存过期打散防止缓存雪崩，对缓存过期时间增加随机偏移，避免大量缓存同时失效引发缓存雪崩。
+ | 原文链接：m.eceyxy.asia/Article/details/7481793.sHtML
+
+原标题：golang 系统设计联合索引设计避坑要点
+简介：开发代理服务网络限制解决，搭建本地代理服务，解决开发环境网络访问受限，实现外部接口正常调用。
+ | 原文链接：m.eceyxy.asia/Article/details/7484636.sHtML
+
+原标题：YAML 配置文件语法快速上手
+简介：缓存基础原理与简单代码实现，讲解缓存设计思路，编写简易缓存逻辑，减少重复计算与重复请求，提升程序响应速度。
+ | 原文链接：m.eceyxy.asia/Article/details/3710481.sHtML
+
+原标题：golang 接口限流中间件开发
+简介：文件监控服务自动重启开发，监控项目文件变更，代码修改自动重启服务，提升本地开发调试效率。
+ | 原文链接：m.eceyxy.asia/Article/details/5269269.sHtML
+
+原标题：golang mysql json 字段查询使用
+简介：golang go1.18 + 泛型基础实操，go 泛型基础语法，泛型函数泛型类型，实现通用工具函数。
+ | 原文链接：m.eceyxy.asia/Article/details/0614252.sHtML
+
+原标题：安全实践：接口错误信息不要暴露内部细节
+简介：golang grpc 客户端流上传数据，客户端流式请求，客户端分批上传数据到服务端，适合大文件传输。
+ | 原文链接：m.eceyxy.asia/Article/details/8526037.sHtML
+
+原标题：nodejs 中间件模式原理剖析
+简介：golang go cover 覆盖率报告生成，go test‑cover 生成测试覆盖率，html 可视化查看未覆盖代码行。
+ | 原文链接：m.eceyxy.asia/Article/details/6081693.sHtML
+
+原标题：前端大文件分片上传完整方案
+简介：golang 定时任务 cron 使用指南，Go 使用 Cron 库实现定时任务，配置 corn 表达式调度业务任务。
+ | 原文链接：m.eceyxy.asia/Article/details/2636272.sHtML
+
+原标题：分布式任务调度集群原型开发
+简介：golang 系统资源限制读取 cpu 内存，读取系统容器 cpu 内存限制，程序适配容器资源配额做业务调优。
+ | 原文链接：m.eceyxy.asia/Article/details/1525637.sHtML
+
+原标题：Git 标签版本标记发布管理
+简介：定时任务周期调度 demo 开发，实现简单定时调度程序，按时间周期执行业务逻辑，理解定时任务运行机制。
+ | 原文链接：m.eceyxy.asia/Article/details/2906848.sHtML
+
+原标题：golang 系统设计契约测试接口兼容性保障思路
+简介：golang 日志 zap 结构化日志实践，接入 Zap 结构化日志库，打印结构化日志，方便日志检索解析。
+ | 原文链接：m.eceyxy.asia/Article/details/0637248.sHtML
+
+原标题：静态网页 HTML CSS 快速入门实战
+简介：请求工具封装统一异常处理，对网络请求做二次封装，统一捕获各类请求异常，标准化接口返回格式。
+ | 原文链接：m.eceyxy.asia/Article/details/5270503.sHtML
+
+原标题：golang 系统设计告警规则阈值设置方法论
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：m.eceyxy.asia/Article/details/6370699.sHtML
+
+原标题：golang 静态编译缩小镜像体积
+简介：新手快速上手 Git 版本控制实操指南，讲解 Git 基础概念与常用命令，结合实操案例，帮助零基础用户掌握版本控制核心能力。
+ | 原文链接：m.eceyxy.asia/Article/details/6373574.sHtML
+
+原标题：实战项目：百万日志文件解析处理脚本实践
+简介：golang 微服务网关简易实现，http 反向代理、路由匹配、鉴权限流，理解网关核心原理。
+ | 原文链接：m.eceyxy.asia/Article/details/9705136.sHtML
+
+原标题：HTTP 状态码请求头完整梳理
+简介：nodejs 单元测试 jest 实操教程，Jest 单元测试实操，编写测试用例，mock 依赖，验证业务逻辑正确性。
+ | 原文链接：m.eceyxy.asia/Article/details/2868362.sHtML
+
+原标题：golang base64 编码解码实操
+简介：容器软链接文件权限修复，修复容器内软链接文件权限，让程序能够正常读取软链接指向的文件。
+ | 原文链接：m.eceyxy.asia/Article/details/3051480.sHtML
+
+原标题：DevOps：多阶段构建Dockerfile最佳实践
+简介：golang go 信号处理优雅重启实现，USR2 触发程序重启，不关闭监听 socket 实现零停机升级。
+ | 原文链接：m.eceyxy.asia/Article/details/1928846.sHtML
+
+原标题：数据库分表路由写入分片修正
+简介：文件描述符优化进程卡死修复，及时关闭文件句柄，控制打开文件数量，解决文件句柄耗尽进程卡死。
+ | 原文链接：m.eceyxy.asia/Article/details/0718950.sHtML
+
+原标题：golang ci 流水线代码质量扫描集成
+简介：golang 消息死信处理业务逻辑，Go 实现死信队列逻辑，消费失败消息转入死信，不阻塞正常消息队列。
+ | 原文链接：m.eceyxy.asia/Article/details/2639470.sHtML
+
+原标题：从零搭建本地数据库开发环境
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：m.eceyxy.asia/Article/details/1828029.sHtML
+
+原标题：数据库索引重建提升查询速度
+简介：前后端交互跨域问题完整处理，讲解跨域产生原理，列举多种解决方案，适配开发、生产不同环境的跨域处理。
+ | 原文链接：m.eceyxy.asia/Article/details/1836151.sHtML
+
+原标题：效率笔记：提升开发效率shell脚本小工具合集
+简介：golang redis bitmap 位图业务实战，bitmap 做签到统计、用户状态标记，节省大量内存空间。
+ | 原文链接：m.eceyxy.asia/Article/details/5273514.sHtML
+
+原标题：Practice：实现接口签名、验签完整示例代码
+简介：端口占用访问失败排查方案，讲解端口占用排查命令，定位占用进程，释放端口，解决服务启动端口被占用报错。
+ | 原文链接：m.eceyxy.asia/Article/details/6373403.sHtML
+
+原标题：golang mysql 批量导入数据实操
+简介：golang CPU 绑定亲和性设置 go 程序，设置进程 CPU 亲和绑定核心，减少 CPU 调度开销，提升计算性能。
+ | 原文链接：m.eceyxy.asia/Article/details/8492702.sHtML
+
+原标题：新手向：项目目录结构规范与含义解析
+简介：hosts 配置本地回环访问修复，修改 hosts 配置，修复 127.0.0.1 解析异常，本地服务访问失败问题。
+ | 原文链接：m.eceyxy.asia/Article/details/7492736.sHtML
+
+原标题：Practice：模拟热点key，验证缓存防护策略
+简介：webpack chunk 分包策略详解，讲解 webpack chunk 分包策略，拆分第三方包与业务代码，优化缓存复用。
+ | 原文链接：m.eceyxy.asia/Article/details/3052405.sHtML
+
+
+二、踩坑排错｜Troubleshooting
+原标题：零基础理解前后端简单交互流程
+简介：golang sync.Map 适用场景与性能对比，读多写少，离散 key，对比普通 map 加锁性能差异。
+ | 原文链接：m.eceyxy.asia/Article/details/7403818.sHtML
+
+原标题：项目实践：MySQL读写分离本地模拟实践
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：m.eceyxy.asia/Article/details/5374625.sHtML
+
+原标题：Practice：从零实现轻量后端接口服务完整实践
+简介：golang grpc 客户端流上传数据，客户端流式请求，客户端分批上传数据到服务端，适合大文件传输。
+ | 原文链接：m.eceyxy.asia/Article/details/0692708.sHtML
+
+原标题：避坑：文件锁处理不当多进程竞争死锁
+简介：接口限流逻辑简单模拟实现，编写简易限流逻辑，限制接口访问频次，保护服务，避免短时间大量请求压垮系统。
+ | 原文链接：m.eceyxy.asia/Article/details/4370381.sHtML
+
+原标题：golang etcd 分布式锁实现原理
+简介：golang k8s 客户端 client‑go 简单示例，client‑go 操作 k8s 资源，增删改查 pod deployment 等资源对象。
+ | 原文链接：m.eceyxy.asia/Article/details/3048362.sHtML
+
+原标题：踩坑记录：分页逻辑错误造成数据重复输出
+简介：数据库事务 ACID 原理讲解，拆解事务四大特性，理解事务隔离、原子性，明白事务如何保障数据安全。
+ | 原文链接：m.eceyxy.asia/Article/details/1485795.sHtML
+
+原标题：SDK 版本兼容线上崩溃修复
+简介：golang 延迟队列实现方案对比，时间轮、redis zset 实现延迟队列，处理延时执行业务。
+ | 原文链接：m.eceyxy.asia/Article/details/6113584.sHtML
+
+原标题：线程调度优化减少上下文切换
+简介：Spring 事务传播机制配置生效，理解事务传播行为，正确配置，修复事务不生效、事务失效的业务 bug。
+ | 原文链接：m.eceyxy.asia/Article/details/8581604.sHtML
+
+原标题：golang mysql 分表自增 id 方案
+简介：golang 集成测试测试数据库回滚，集成测试结束自动回滚数据库，不污染测试环境数据。
+ | 原文链接：m.eceyxy.asia/Article/details/5262405.sHtML
+
+原标题：golang 系统设计告警风暴抑制方案实现
+简介：golang panic 崩溃日志完整收集，捕获所有 panic，打印堆栈，记录日志，方便定位崩溃根源。
+ | 原文链接：m.eceyxy.asia/Article/details/8483829.sHtML
+
+原标题：性能笔记：磁盘IO过高业务优化手段
+简介：golang context.WithValue 传递元数据，WithValue 只传 traceId 鉴权元数据，不要传业务大对象。
+ | 原文链接：m.eceyxy.asia/Article/details/4158471.sHtML
+
+原标题：对象存储上传下载权限实操
+简介：golang go yaml 解析自定义类型，yaml 自定义序列化，时间、特殊类型自定义解析逻辑。
+ | 原文链接：m.eceyxy.asia/Article/details/9506858.sHtML
+
+原标题：golang 系统设计单元测试表驱动测试 table‑driven
+简介：golang grpc 拦截器开发鉴权日志，开发 grpc 服务端拦截器，统一做鉴权、日志打印、异常捕获处理。
+ | 原文链接：m.eceyxy.asia/Article/details/8580572.sHtML
+
+原标题：性能复盘：磁盘Swap大量使用系统卡顿优化
+简介：golang sync.Cond 条件变量使用，Cond 条件变量协程等待唤醒，复杂并发同步场景。
+ | 原文链接：m.eceyxy.asia/Article/details/5265250.sHtML
+
+原标题：看懂报错日志快速定位问题
+简介：JWT 令牌过期异常处理，捕获 JWT 过期、篡改异常，编写业务处理逻辑，引导用户重新获取令牌。
+ | 原文链接：m.eceyxy.asia/Article/details/7592726.sHtML
+
+原标题：golang 数据库连接泄露排查
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：m.eceyxy.asia/Article/details/9502793.sHtML
+
+原标题：golang 系统设计秒杀防超卖方案
+简介：Docker 网络模式容器互通设置，选择合适 Docker 网络模式，实现容器之间网络互相访问通信。
+ | 原文链接：m.eceyxy.asia/Article/details/0728060.sHtML
+
+原标题：golang redis 分布式计数器开发
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：m.eceyxy.asia/Article/details/0356689.sHtML
+
+原标题：HelloShell：入门常用shell脚本编写
+简介：Git 混乱提交历史清理方法，针对杂乱的提交记录，使用 Git 工具整理，清理无效提交，还原整洁版本历史。
+ | 原文链接：m.eceyxy.asia/Article/details/6104355.sHtML
+
+原标题：数据库连接及时关闭连接泄漏
+简介：css 变量主题切换方案实现，使用 CSS 变量实现网页主题切换，多套主题样式快速切换无需大量 CSS。
+ | 原文链接：m.eceyxy.asia/Article/details/0035437.sHtML
+
+原标题：性能笔记：避免频繁创建销毁对象GC优化
+简介：OOMKilled 容器被杀完整排查，排查容器被 OOM 终止完整流程，区分程序内存泄露和容器内存限制过小。
+ | 原文链接：m.eceyxy.asia/Article/details/8582470.sHtML
+
+原标题：Architecture：大文件上传下载系统架构设计
+简介：TCP 长连接参数优化 TIME_WAIT，调整 TCP 内核参数，优化长连接，减少大量 TIME_WAIT 连接占用资源。
+ | 原文链接：m.eceyxy.asia/Article/details/1581365.sHtML
+
+原标题：golang mysql 时间类型选型避坑
+简介：golang redis lua 脚本原子操作，使用 Lua 脚本实现原子逻辑，减少网络往返，保障多命令原子执行。
+ | 原文链接：m.eceyxy.asia/Article/details/7167581.sHtML
+
+原标题：golang 系统设计请求签名校验完整方案
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：m.eceyxy.asia/Article/details/5936470.sHtML
+
+原标题：项目构建脚本编译打包解析
+简介：golang defer 闭包变量捕获坑，defer 捕获循环变量引用，变量被复写，理解闭包变量捕获规则。
+ | 原文链接：m.eceyxy.asia/Article/details/5347925.sHtML
+
+原标题：golang 系统设计消息大小限制业务处理方案
+简介：前端国际化多语言方案落地，搭建前端多语言国际化方案，切换语言，页面文本自动切换对应语种。
+ | 原文链接：m.eceyxy.asia/Article/details/3740392.sHtML
+
+原标题：性能复盘：慢SQL定位、分析、改写完整案例
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：m.eceyxy.asia/Article/details/5273475.sHtML
+
+原标题：Troubleshoot：异步异常未捕获，进程悄无声息退出
+简介：golang context.Background 与 TODO 区别，Background 主流程根上下文，TODO 不确定用哪个上下文时使用。
+ | 原文链接：m.eceyxy.asia/Article/details/6381695.sHtML
+
+原标题：golang 系统设计依赖版本升级风险评估
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：m.eceyxy.asia/Article/details/0414403.sHtML
+
+原标题：开发记录：数据库悲观锁乐观锁业务场景实践
+简介：容器资源限制防止宿主机过载，设置容器 CPU 内存资源上限，避免单个容器耗尽宿主机全部硬件资源。
+ | 原文链接：m.eceyxy.asia/Article/details/0814747.sHtML
+
+原标题：golang 系统设计大表结构变更不停机方案
+简介：golang 接口限流中间件开发，Gin 开发限流中间件，接口层实现访问频率限制，防护接口流量。
+ | 原文链接：m.eceyxy.asia/Article/details/1824816.sHtML
+
+原标题：golang mysql 索引失效常见场景
+简介：批量操作分批处理防止 OOM，大批量数据处理不一次性加载全部数据，分批循环处理，避免内存溢出。
+ | 原文链接：m.eceyxy.asia/Article/details/9503925.sHtML
+
+原标题：K8s 镜像拉取网络故障修复
+简介：golang 图片处理 go 图片裁剪压缩，golang 图像处理库，图片缩放裁剪水印，服务端图片处理。
+ | 原文链接：m.eceyxy.asia/Article/details/8585635.sHtML
+
+原标题：golang 系统设计本地缓存 redis 缓存多级组合
+简介：golang 灰度发布流量权重路由实现，根据权重切分流量，部分流量访问新版本服务，实现灰度发布。
+ | 原文链接：m.eceyxy.asia/Article/details/2041391.sHtML
+
+原标题：golang 系统设计 gob msgpack 序列化对比
+简介：golang lru 缓存淘汰算法编写，手写 LRU 缓存淘汰算法，实现本地缓存，淘汰最久未使用数据。
+ | 原文链接：m.eceyxy.asia/Article/details/8536370.sHtML
+
+原标题：golang 系统设计单元测试表驱动测试 table‑driven
+简介：特殊输入字符过滤解析防护，过滤用户输入特殊字符，防止解析报错，规避恶意字符带来业务异常。
+ | 原文链接：m.eceyxy.asia/Article/details/8525040.sHtML
+
+原标题：实践：数据库回滚点业务调试实践
+简介：站内邮件消息通知功能开发，实现站内消息、邮件通知推送，业务事件触发通知，提醒用户业务状态变更。
+ | 原文链接：m.eceyxy.asia/Article/details/7292025.sHtML
+
+原标题：golang 信号捕获程序退出处理
+简介：golang 雪花算法 workId 自动获取，自动获取机器 workId，不用手动配置，简化分布式 id 部署。
+ | 原文链接：m.eceyxy.asia/Article/details/5162584.sHtML
+
+原标题：磁盘 inode 耗尽文件创建失败
+简介：golang 文件上传下载接口开发，Go 开发文件上传下载接口，校验文件，处理文件读写存储逻辑。
+ | 原文链接：m.eceyxy.asia/Article/details/7504146.sHtML
+
+原标题：golang 系统设计字段命名类型选择最佳实践
+简介：golang cpu pprof 性能分析实操，使用 pprof 采集 CPU 性能数据，定位 CPU 高占用函数，做性能优化。
+ | 原文链接：m.eceyxy.asia/Article/details/2946857.sHtML
+
+三、实战开发｜Practice
+原标题：架构笔记：业务操作审计日志系统架构设计
+简介：golang 反向代理 http 服务开发，手写简易 http 反向代理，转发请求，修改请求头响应头。
+ | 原文链接：m.eceyxy.asia/Article/details/9603825.sHtML
+
+原标题：gitignore 文件编写过滤规则
+简介：golang 互斥锁读写锁并发安全，互斥锁读写锁实操，保护共享变量，解决多协程并发读写数据竞争。
+ | 原文链接：m.eceyxy.asia/Article/details/6303846.sHtML
+
+原标题：golang 布隆过滤器实现去重
+简介：CORS 跨域问题多种解决方案，对比 CORS、代理等不同跨域方案优缺点，根据业务场景选择合适的跨域处理方式。
+ | 原文链接：m.eceyxy.asia/Article/details/0475637.sHtML
+
+原标题：项目实践：搭建个人API网关最小实现版本
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：m.eceyxy.asia/Article/details/6301581.sHtML
+
+原标题：零基础理解模块化与组件化基础思想
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：m.eceyxy.asia/Article/details/3049371.sHtML
+
+原标题：排错：GitLFS大文件推送失败完整排障
+简介：golang go 爬虫 robots 协议遵守，解析 robots.txt 规则，控制爬虫抓取范围，合规采集网页数据。
+ | 原文链接：m.eceyxy.asia/Article/details/7483818.sHtML
+
+原标题：golang 系统设计消息幂等消费去重实现方案
+简介：golang 分库分表简单路由实现，简易分表路由逻辑实现，根据分片 key 计算分片位置，数据路由写入。
+ | 原文链接：m.eceyxy.asia/Article/details/4178470.sHtML
+
+原标题：Practice：实现接口幂等性多种方案对比实践
+简介：多操作系统开发兼容处理，解决不同系统路径、换行符、权限差异，保证项目跨平台正常运行。
+ | 原文链接：m.eceyxy.asia/Article/details/3824659.sHtML
+
+原标题：短信服务封装失败自动重试
+简介：golang go 运行时获取编译信息，程序内部读取编译时间 git 版本，接口输出程序版本信息。
+ | 原文链接：m.eceyxy.asia/Article/details/1676790.sHtML
+
+原标题：WSL 搭建 Windows Linux 开发环境
+简介：nodejs 脚手架工具开发完整教程，从零开发 Node 命令行脚手架，实现项目模板生成，理解 CLI 开发。
+ | 原文链接：m.eceyxy.asia/Article/details/8246478.sHtML
+
+原标题：实战项目：容器健康探针配置完整实践示例
+简介：TLS 版本兼容 HTTPS 握手失败，兼容老旧 TLS 协议版本，修复部分客户端 HTTPS 握手失败无法访问。
+ | 原文链接：m.eceyxy.asia/Article/details/5902331.sHtML
+
+原标题：golang 系统设计开源项目安全漏洞处理流程
+简介：线上接口超时故障排查思路，从网络、数据库、代码逻辑逐层排查接口超时，定位慢请求根因。
+ | 原文链接：m.eceyxy.asia/Article/details/0953911.sHtML
+
+原标题：golang 系统设计容器镜像安全加固要点
+简介：静态博客部署 GitHub Pages 教程，将静态博客项目部署至 GitHub Pages，完成线上访问，快速搭建个人技术博客站点。
+ | 原文链接：m.eceyxy.asia/Article/details/6373606.sHtML
+
+原标题：特殊输入字符过滤解析防护
+简介：golang kitex 超时重试熔断配置，kitex 配置调用超时、重试、熔断策略，保障微服务调用稳定性。
+ | 原文链接：m.eceyxy.asia/Article/details/3040280.sHtML
+
+原标题：项目构建脚本编译打包解析
+简介：百万数据 Excel 导出内存优化，优化大 Excel 导出逻辑，流式输出，避免一次性加载全部数据造成 OOM。
+ | 原文链接：m.eceyxy.asia/Article/details/2939360.sHtML
+
+原标题：Practice：实现异步回调处理通用组件封装
+简介：WSL 搭建 Windows Linux 开发环境，配置 WSL 环境，在 Windows 系统使用 Linux 工具链，适配 Linux 开发项目。
+ | 原文链接：m.eceyxy.asia/Article/details/4178069.sHtML
+
+原标题：golang 系统设计数据库慢请求排查流程
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：m.eceyxy.asia/Article/details/2936140.sHtML
+
+原标题：golang 系统设计联合索引设计避坑要点
+简介：golang 钉钉企业微信告警消息推送，go 调用企业微信钉钉接口，推送告警通知、业务消息。
+ | 原文链接：m.eceyxy.asia/Article/details/2747258.sHtML
+
+原标题：内存广播本地进程消息通知
+简介：多操作系统开发兼容处理，解决不同系统路径、换行符、权限差异，保证项目跨平台正常运行。
+ | 原文链接：m.eceyxy.asia/Article/details/8594634.sHtML
+
+原标题：golang 跨域处理中间件编写
+简介：golang go 泛型实现通用数据结构，泛型实现通用栈队列，复用逻辑支持多种数据类型。
+ | 原文链接：m.eceyxy.asia/Article/details/0714929.sHtML
+
+原标题：golang 系统设计大盘看板设计最佳实践汇总
+简介：golang 链路追踪简易实现方案，简易链路追踪实现，传递 traceId，记录调用链路，方便排查慢调用。
+ | 原文链接：m.eceyxy.asia/Article/details/9616818.sHtML
+
+原标题：实战：对象存储断点续传下载实践
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：m.eceyxy.asia/Article/details/2935049.sHtML
+
+原标题：golang 系统设计监控告警阈值设置思路
+简介：golang os 文件权限 mode，os.FileMode 文件权限，读写执行权限位，跨平台权限注意事项。
+ | 原文链接：m.eceyxy.asia/Article/details/6305859.sHtML
+
+原标题：Practice：实现请求重试组件支持退避策略
+简介：WebSocket 双向通信 demo 开发，搭建简易 WebSocket 服务，实现客户端服务端双向消息推送，理解实时通信原理。
+ | 原文链接：m.eceyxy.asia/Article/details/7383804.sHtML
+
+原标题：方案对比：本地缓存vs分布式缓存架构取舍
+简介：文件锁正确使用避免死锁，合理使用文件锁，控制多进程访问同一个文件，规避文件锁死锁现象。
+ | 原文链接：m.eceyxy.asia/Article/details/4262250.sHtML
+
+原标题：golang 开发环境快速搭建指南
+简介：golang go test 单元测试命令参数详解，gotest 参数覆盖率，指定测试用例，跳过测试，单元测试命令实操。
+ | 原文链接：m.eceyxy.asia/Article/details/1946152.sHtML
+
+原标题：调试工具断点调试变量查看技巧
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：m.eceyxy.asia/Article/details/0483526.sHtML
+
+原标题：golang 系统设计结构化日志字段规范约定
+简介：golang grpc 客户端拦截器封装，grpc 客户端拦截器实现请求统一签名、重试、链路信息透传。
+ | 原文链接：m.eceyxy.asia/Article/details/1823836.sHtML
+
+原标题：golang 系统设计 tcp 粘包拆包处理方案实现
+简介：golang io.MultiReader MultiWriter 拼接流，多个 reader 拼接，多 writer 同时写入一份数据。
+ | 原文链接：m.eceyxy.asia/Article/details/5268913.sHtML
+
+原标题：golang 定时任务 cron 使用指南
+简介：golang go 值传递引用传递理解，go 全部为值传递，指针本质拷贝指针值，理清参数传递行为。
+ | 原文链接：m.eceyxy.asia/Article/details/1828917.sHtML
+
+原标题：从零搭建简单的健康检查接口示例
+简介：大事务拆分防止连接池耗尽，将执行时间很长的大事务拆分为小事务，减少事务占用连接时长。
+ | 原文链接：m.eceyxy.asia/Article/details/6062404.sHtML
+
+原标题：golang es 聚合统计查询实现
+简介：macOS 脚本执行权限开启，给 Shell 脚本添加可执行权限，解决 macOS 下脚本无法运行权限报错。
+ | 原文链接：m.eceyxy.asia/Article/details/2939146.sHtML
+
+原标题：golang 简易埋点日志上报实现
+简介：golang channel 关闭规则与坑点，关闭已经关闭 channel 会 panic，判断 channel 是否关闭正确写法。
+ | 原文链接：m.eceyxy.asia/Article/details/6048392.sHtML
+
+原标题：golang docker compose 本地开发最佳实践
+简介：golang defer 闭包变量捕获坑，defer 捕获循环变量引用，变量被复写，理解闭包变量捕获规则。
+ | 原文链接：m.eceyxy.asia/Article/details/7636147.sHtML
+
+原标题：Architecture：静态配置与动态配置架构分离
+简介：golang go 防止路径穿越攻击，文件操作校验路径，拒绝../ 路径穿越，禁止访问系统任意文件。
+ | 原文链接：m.eceyxy.asia/Article/details/7181393.sHtML
+
+原标题：Debug：时间回拨，定时任务调度逻辑错乱
+简介：golang sort 切片排序自定义 less，sort.Slice 切片快速排序，自定义 less 函数实现业务排序。
+ | 原文链接：m.eceyxy.asia/Article/details/3636025.sHtML
+
+原标题：数据库 utf8mb4 支持 emoji 存储
+简介：golang gorm 软删除实现逻辑，Gorm 开启软删除，删除数据仅标记，数据保留可恢复，满足业务数据留存。
+ | 原文链接：m.eceyxy.asia/Article/details/6292391.sHtML
+
+原标题：Issue：本地数据库与线上数据库排序规则差异
+简介：死信队列处理消息阻塞业务，配置死信队列，处理消费失败消息，避免失败消息阻塞整个队列业务。
+ | 原文链接：m.eceyxy.asia/Article/details/2940172.sHtML
+
+原标题：golang redis 过期策略内存淘汰
+简介：golang grpc 重试机制客户端配置，grpc 客户端配置重试策略，临时故障自动重试，提升调用稳定性。
+ | 原文链接：m.eceyxy.asia/Article/details/2050141.sHtML
+
+原标题：CI 构建缓存加速编译速度
+简介：新手参与开源社区贡献指南，介绍开源社区基础规则，讲解阅读 issue、提交 PR 流程，指导开发者参与开源贡献。
+ | 原文链接：m.eceyxy.asia/Article/details/6204913.sHtML
+
+四、架构设计｜Architecture
+原标题：golang mongodb 聚合管道实操案例
+简介：golang clickhouse go 客户端数据写入，clickhouse‑go 客户端写入查询，海量时序数据分析业务。
+ | 原文链接：m.eceyxy.asia/Article/details/3757169.sHtML
+
+原标题：golang 系统设计分库分表扩容平滑迁移
+简介：golang redis geo 地理位置存储查询，Redis GEO 存储经纬度，查询附近点位，实现附近人业务功能。
+ | 原文链接：m.eceyxy.asia/Article/details/5169475.sHtML
+
+原标题：服务熔断防止故障级联传播
+简介：nodejs 流处理大文件不占内存，使用 Node.js 流处理超大文件，边读边写，不需要全部加载进内存。
+ | 原文链接：m.eceyxy.asia/Article/details/4040391.sHtML
+
+原标题：坑点：依赖包内部携带恶意代码供应链风险
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：m.eceyxy.asia/Article/details/1826146.sHtML
+
+原标题：实战项目：多实例部署会话一致性验证实践
+简介：golang 结构体零值可用性原则，go 结构体尽量做到零值可用，不用初始化直接使用提升易用性。
+ | 原文链接：m.eceyxy.asia/Article/details/4150584.sHtML
+
+原标题：后端分页查询逻辑代码实现
+简介：JWT 令牌过期异常处理，捕获 JWT 过期、篡改异常，编写业务处理逻辑，引导用户重新获取令牌。
+ | 原文链接：m.eceyxy.asia/Article/details/3080507.sHtML
+
+原标题：前端错误监控上报系统搭建
+简介：超大数据集分页性能优化方案，对比不同分页方案，针对海量数据集做分页性能优化，解决越翻越慢。
+ | 原文链接：m.eceyxy.asia/Article/details/0314525.sHtML
+
+原标题：Practice：实现接口mock动态返回不同响应
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：m.eceyxy.asia/Article/details/2935146.sHtML
+
+原标题：Security：Docker镜像安全扫描漏洞修复
+简介：golang 压缩 zip 文件生成解压，golang 实现 zip 压缩打包，解压 zip 归档文件，处理批量文件归档。
+ | 原文链接：m.eceyxy.asia/Article/details/3051392.sHtML
+
+原标题：踩坑记录：CPU亲和配置不合理多核心负载不均
+简介：手写简易 RPC 服务通信原型，手写极简 RPC 原型，理解服务注册、网络传输、方法调用底层逻辑。
+ | 原文链接：m.eceyxy.asia/Article/details/5481706.sHtML
+
+原标题：入门实践：简单批量处理脚本编写
+简介：golang go‑zero 中间件鉴权限流，go‑zero 自定义中间件，实现鉴权、限流、日志打印通用能力。
+ | 原文链接：m.eceyxy.asia/Article/details/8595844.sHtML
+
+原标题：分页逻辑错误数据漏查修复
+简介：golang http MaxHeaderBytes 限制请求头，设置 http 最大请求头大小，防止超大 header 攻击。
+ | 原文链接：m.eceyxy.asia/Article/details/3049284.sHtML
+
+原标题：Practice：实现定时任务动态启停管理接口
+简介：文件句柄上限调整上传随机失败，调高系统文件句柄上限，解决高并发上传场景随机打开文件失败。
+ | 原文链接：m.eceyxy.asia/Article/details/9505818.sHtML
+
+原标题：golang 系统设计故障复盘模板 postmortem 参考
+简介：从零编写简易 CLI 命令行工具，通过实战案例实现基础命令交互，理解命令行程序执行逻辑，产出可运行小工具。
+ | 原文链接：m.eceyxy.asia/Article/details/6180282.sHtML
+
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：golang tcp 四次挥手 go 程序行为，理解 tcp 四次挥手，处理连接关闭、重置、RST 包异常场景。
+ | 原文链接：m.eceyxy.asia/Article/details/3936848.sHtML
+
+原标题：复盘总结：系统压测报告模板与分析思路
+简介：golang recover 捕获 panic 使用边界，recover 只在 defer 内部生效，协程内部必须捕获本协程 panic。
+ | 原文链接：m.eceyxy.asia/Article/details/3039159.sHtML
+
+原标题：项目实践：实现数据脱敏组件支持多种脱敏规则
+简介：分布式锁失效问题排查修复，分析分布式锁失效场景，修复锁超时、续期问题，保证锁逻辑可靠。
+ | 原文链接：m.eceyxy.asia/Article/details/7262593.sHtML
+
+原标题：线上故障：Redis内存淘汰策略错误数据丢失
+简介：golang channel 关闭规则与坑点，关闭已经关闭 channel 会 panic，判断 channel 是否关闭正确写法。
+ | 原文链接：m.eceyxy.asia/Article/details/6202815.sHtML
+
+?
